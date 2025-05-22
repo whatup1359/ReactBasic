@@ -58,7 +58,7 @@ const Cart = () => {
       className="w-full max-w-6xl mx-auto px-4 py-16">
         <div className="bg-gray-900/70 backdrop-blur-xl text-white p-6 rounded-lg shadow-xl">
           <h1 className="text-2xl font-bold text-left animate-pulse mb-6">
-            🛒 Cart
+            🛒 Wut Cart
           </h1>
 
           <motion.div 
